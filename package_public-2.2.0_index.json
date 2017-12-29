@@ -1,7 +1,7 @@
 {
     "packages": {
         "maintainer": "Intel",
-        "name": "Intel-Test",
+        "name": "Intel",
         "websiteURL": "https://www.arduino.cc/en/Main/ArduinoBoard101",
         "platforms": [
             {
