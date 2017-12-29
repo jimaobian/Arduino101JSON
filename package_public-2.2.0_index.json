@@ -8,14 +8,14 @@
                 "category": "Arduino Certified",
                 "version": "2.2.0",
                 "name": "Intel Curie Boards (Test)",
-                "archiveFileName": "2.2.0.zip",
+                "archiveFileName": "ArduinoCore-arc32-2.2.0.zip",
                 "boards": [
                     {
                         "name": "Arduino/Genuino 101"
                     }
                 ],
                 "url": "https://github.com/arduino/ArduinoCore-arc32/archive/2.2.0.zip",
-                "checksum": "SHA-256:6be4beae6d441ed6de1dcb27aefc39020218570a672f225a8a5ff1941a1db6d0",
+                "checksum": "SHA-256:650439941d9a0be171387ae460d413fb6ce816a220740af14fd2b3fe2f4516c2",
                 "size": 6293249,
                 "toolsDependencies": [
                     {
